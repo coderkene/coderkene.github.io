@@ -1,0 +1,1480 @@
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\nunito\v25\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCp6KVjbNBYlgoKejYHtFyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZftVyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZPslyPN4Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKej70l0w.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCu6KVjbNBYlgoKej70l0w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://renandfoundation.org/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/category/leadership-team-in-haiti/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\category\leadership-team-in-haiti\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/comments/feed/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://renandfoundation.org/community-sustainability/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\community-sustainability\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/contact/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\contact\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/donate/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\donate\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/education/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\education\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/faces-of-haiti/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\faces-of-haiti\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/feed/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://renandfoundation.org/gallery/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\gallery\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/gerald-tony-family/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\gerald-tony-family\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/get-involved/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\get-involved\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/healthcare/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\healthcare\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/housing/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\housing\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/our-leaders/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\our-leaders\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/our-story/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\our-story\index.htm
+Content Type: text/html
+
+Uri: https://renandfoundation.org/our-story/feed/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\our-story\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.21.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: font/woff
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/vendor/jquery.isotope.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\vendor\jquery.isotope.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/vendor/lord-icon/lord-icon-2.1.0.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\vendor\lord-icon\lord-icon-2.1.0.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/vendor/magnific-popup/jquery.magnific-popup.min.js?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\vendor\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/happy-elementor-addons/assets/vendor/magnific-popup/magnific-popup.css?ver=3.8.6
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\happy-elementor-addons\assets\vendor\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.15
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.6.15
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\header-footer-elementor\inc\js\frontend.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.15
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ht-slider-for-elementor/assets/css/ht-slider-widgets.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ht-slider-for-elementor\assets\css\ht-slider-widgets.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ht-slider-for-elementor/assets/css/slick.min.css?ver=1.5.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ht-slider-for-elementor\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ht-slider-for-elementor/assets/js/active.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ht-slider-for-elementor\assets\js\active.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/ht-slider-for-elementor/assets/js/slick.min.js?ver=1.5.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ht-slider-for-elementor\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/plugins/ultimate-post-kit/assets/css/upk-alex-grid.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ultimate-post-kit\assets\css\upk-alex-grid.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ultimate-post-kit/assets/css/upk-font.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ultimate-post-kit\assets\css\upk-font.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ultimate-post-kit/assets/css/upk-site.css?ver=3.7.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ultimate-post-kit\assets\css\upk-site.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/plugins/ultimate-post-kit/assets/js/upk-site.min.js?ver=3.7.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\plugins\ultimate-post-kit\assets\js\upk-site.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Bold-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Regular-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Light.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\inter\Inter-VariableFont_slnt,wght.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\themes\twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/andis-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\andis-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/andis.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\andis.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Djepson-Pierre-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Djepson-Pierre-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Djepson-Pierre.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Djepson-Pierre.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/fanel-leme-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\fanel-leme-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/fanel-leme.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\fanel-leme.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/IMG_4239-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\IMG_4239-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/IMG_4239-768x960.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\IMG_4239-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/IMG_4239-819x1024.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\IMG_4239-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/IMG_4239.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\IMG_4239.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/john-1229x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\john-1229x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/john-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\john-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/john-768x960.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\john-768x960.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/john-820x1024.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\john-820x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/john.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\john.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/leaders6-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\leaders6-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/leaders6.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\leaders6.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/leaders7-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\leaders7-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/leaders7.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\leaders7.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Leon-Laurent-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Leon-Laurent-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Leon-Laurent.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Leon-Laurent.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/logo-footer2.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\logo-footer2.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Maxeau-Pierre-240x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Maxeau-Pierre-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/Maxeau-Pierre.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\Maxeau-Pierre.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-1vivienda-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-1vivienda-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-1vivienda-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-1vivienda-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-1vivienda-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-1vivienda-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-1vivienda.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-1vivienda.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-foundation-logo3.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-foundation-logo3.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda10-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda10-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda10-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda10-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda10-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda10-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda10.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda10.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda11-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda11-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda11-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda11-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda11-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda11-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda11.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda11.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda12-300x216.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda12-300x216.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda12-768x553.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda12-768x553.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda12.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda12.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda2-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda2-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda2-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda2.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda2.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda3-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda3-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda3-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda3.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda3.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda4-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda4-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda4-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda4-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda4.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda4.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda5-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda5-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda5-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda5-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda5.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda5.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda6-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda6-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda6-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda6-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda6-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda6.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda6.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda7-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda7-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda7-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda7-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda7-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda7.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda7.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda8-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda8-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda8-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda8-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda8-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda8-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda8.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda8.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda9-150x150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda9-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda9-300x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda9-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda9-768x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda9-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/07/renald-vivienda9.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\07\renald-vivienda9.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/08/give-300x84.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\08\give-300x84.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/08/give.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\08\give.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/08/temporary1-300x84.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\08\temporary1-300x84.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/08/temporary1.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\08\temporary1.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1-1568x1176.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1-1568x1176.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/126537768_369929437400529_7976943317548802909_n-1.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\126537768_369929437400529_7976943317548802909_n-1.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/2020-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\2020-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/2020-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\2020-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/2020.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\2020.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/unnamed-5-5-228x300.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\unnamed-5-5-228x300.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/unnamed-5-5-768x1010.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\unnamed-5-5-768x1010.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/unnamed-5-5-779x1024.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\unnamed-5-5-779x1024.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2020/11/unnamed-5-5.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2020\11\unnamed-5-5.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/01/text-12-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\01\text-12-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/01/text-12.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\01\text-12.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/02/143787847_2813129065615919_8052734980088686981_n-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\02\143787847_2813129065615919_8052734980088686981_n-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/02/143787847_2813129065615919_8052734980088686981_n-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\02\143787847_2813129065615919_8052734980088686981_n-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/02/143787847_2813129065615919_8052734980088686981_n-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\02\143787847_2813129065615919_8052734980088686981_n-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/02/143787847_2813129065615919_8052734980088686981_n-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\02\143787847_2813129065615919_8052734980088686981_n-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/02/143787847_2813129065615919_8052734980088686981_n.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\02\143787847_2813129065615919_8052734980088686981_n.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/learning-277x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\learning-277x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/learning.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\learning.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/salud-277x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\salud-277x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/salud.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\salud.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/voluntariado-277x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\voluntariado-277x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/04/voluntariado.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\04\voluntariado.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/08/GR1-blackwhite-199x300.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\08\GR1-blackwhite-199x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/08/GR1-blackwhite.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\08\GR1-blackwhite.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-20-at-8.34.37-PM-300x169.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\08\WhatsApp-Image-2021-08-20-at-8.34.37-PM-300x169.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-20-at-8.34.37-PM.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2021\08\WhatsApp-Image-2021-08-20-at-8.34.37-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-30-at-2.50.45-AM-2-300x169.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\01\WhatsApp-Image-2022-01-30-at-2.50.45-AM-2-300x169.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-30-at-2.50.45-AM-2-768x432.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\01\WhatsApp-Image-2022-01-30-at-2.50.45-AM-2-768x432.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-30-at-2.50.45-AM-2.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\01\WhatsApp-Image-2022-01-30-at-2.50.45-AM-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/IMG_1358-scaled-1-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\IMG_1358-scaled-1-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/IMG_1358-scaled-1-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\IMG_1358-scaled-1-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/IMG_1358-scaled-1-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\IMG_1358-scaled-1-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/IMG_1358-scaled-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\IMG_1358-scaled-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/IMG_1358-scaled-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\IMG_1358-scaled-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/06/parallax.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\06\parallax.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/economoy-trend.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\economoy-trend.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/family.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\family.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/hammer.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\hammer.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image1-300x178.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image1-300x178.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image1.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image1.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image11-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image11-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image11-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image11-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image11-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image11-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image11.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image11.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image2-1024x607.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image2-1024x607.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image2-300x178.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image2-300x178.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image2-768x455.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image2-768x455.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image2.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image2.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image3-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image3-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image3.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image3.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image4-300x196.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image4-300x196.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image4.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image4.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image5-300x193.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image5-300x193.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image5.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image5.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image6-242x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image6-242x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image6-768x951.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image6-768x951.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image6-827x1024.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image6-827x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image6.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image6.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image7-1024x624.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image7-1024x624.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image7-300x183.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image7-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image7-768x468.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image7-768x468.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image7.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image7.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image8-1024x683.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image8-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image8-300x200.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image8-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image8-768x512.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image8-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image8.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image8.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image9-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image9-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image9-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image9-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/image9.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\image9.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/labor.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\labor.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/student.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\student.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/07/trust.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\07\trust.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1-1026x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1-1026x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1-1368x2048.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1-1368x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1-200x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1-684x1024.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1-684x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1-768x1150.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1-768x1150.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/09/IMG_1361-min-scaled-1.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\09\IMG_1361-min-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2022/12/fondo.png
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2022\12\fondo.png
+Content Type: image/png
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.34-PM-768x522.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.34-PM-768x522.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.44-PM-768x549.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.44-PM-768x549.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.47-PM-300x200.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.47-PM-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.47-PM.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.47-PM.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.52-PM-2-300x223.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.52-PM-2-300x223.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-01-at-11.10.52-PM-2.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\02\WhatsApp-Image-2023-02-01-at-11.10.52-PM-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SC5gaEAIIi_c-1152x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SC5gaEAIIi_c-1152x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SC5gaEAIIi_c-225x300.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SC5gaEAIIi_c-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SC5gaEAIIi_c-768x1024.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SC5gaEAIIi_c-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SC5gaEAIIi_c.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SC5gaEAIIi_c.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDCcakAAK6zx-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDCcakAAK6zx-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDCcakAAK6zx-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDCcakAAK6zx-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDCcakAAK6zx-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDCcakAAK6zx-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDCcakAAK6zx-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDCcakAAK6zx-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDCcakAAK6zx-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDCcakAAK6zx-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDgnaIAExlIO-1024x768.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDgnaIAExlIO-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDgnaIAExlIO-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDgnaIAExlIO-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDgnaIAExlIO-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDgnaIAExlIO-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDgnaIAExlIO-300x225.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDgnaIAExlIO-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/Fx4SDgnaIAExlIO-768x576.jpg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\Fx4SDgnaIAExlIO-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-4.24.23-AM-1024x768.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\WhatsApp-Image-2023-06-01-at-4.24.23-AM-1024x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-4.24.23-AM-1536x1152.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\WhatsApp-Image-2023-06-01-at-4.24.23-AM-1536x1152.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-4.24.23-AM-300x225.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\WhatsApp-Image-2023-06-01-at-4.24.23-AM-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-4.24.23-AM-768x576.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\WhatsApp-Image-2023-06-01-at-4.24.23-AM-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/06/WhatsApp-Image-2023-06-01-at-4.24.23-AM.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\06\WhatsApp-Image-2023-06-01-at-4.24.23-AM.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/08/Dennis-Roy-1-248x300.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\08\Dennis-Roy-1-248x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/08/Dennis-Roy-1-768x928.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\08\Dennis-Roy-1-768x928.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/08/Dennis-Roy-1-847x1024.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\08\Dennis-Roy-1-847x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/2023/08/Dennis-Roy-1.jpeg
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\2023\08\Dennis-Roy-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-12.css?ver=1692763443
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-14.css?ver=1692764330
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-14.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1415.css?ver=1692760978
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1415.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1421.css?ver=1692763404
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1421.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1423.css?ver=1692760910
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1423.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1446.css?ver=1692760910
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1446.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1496.css?ver=1692760910
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1496.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-16.css?ver=1692764699
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-16.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-19.css?ver=1692884676
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-19.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1933.css?ver=1692760911
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1933.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1939.css?ver=1692760911
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1939.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-1947.css?ver=1692760911
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-1947.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-5.css?ver=1692760910
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-69.css?ver=1692763523
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-69.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-71.css?ver=1692763563
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-71.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-73.css?ver=1692763587
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-73.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/elementor/css/post-75.css?ver=1692763616
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\elementor\css\post-75.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/happyaddons/css/ha-14.css?ver=3.8.6.1692764322
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\happyaddons\css\ha-14.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/happyaddons/css/ha-1423.css?ver=3.8.6.1686105694
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\happyaddons\css\ha-1423.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-content/uploads/happyaddons/css/ha-19.css?ver=3.8.6.1692881673
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-content\uploads\happyaddons\css\ha-19.css
+Content Type: text/css
+
+Uri: https://renandfoundation.org/wp-includes/js/comment-reply.min.js?ver=6.3
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://renandfoundation.org/wp-json/
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fcommunity-sustainability%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fcommunity-sustainability%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Feducation%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Feducation%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Ffaces-of-haiti%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Ffaces-of-haiti%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fgallery%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fgallery%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fget-involved%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fget-involved%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fhealthcare%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fhealthcare%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fhousing%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Fhousing%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Four-leaders%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Four-leaders%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Four-story%2F
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/oembed/1.0/embed?url=https:%2F%2Frenandfoundation.org%2Four-story%2F&format=xml
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/1415
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\1415
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/1421
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\1421
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/1423
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\1423
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/16
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/69
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\69
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/71
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\71
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/73
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\73
+Content Type: application/json
+
+Uri: https://renandfoundation.org/wp-json/wp/v2/pages/75
+File Name: C:\Downloaded Web Sites\renandfoundation.org\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: https://www.rapidscansecure.com/siteseal/siteseal.js?code=147,4482C59A90D5571D82F8577377D5CC818B187AFD
+File Name: C:\Downloaded Web Sites\renandfoundation.org\siteseal\siteseal.js
+Content Type: text/javascript
+

@@ -1,0 +1,2912 @@
+Uri: https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900&display=swap
+File Name: C:\Downloaded Web Sites\standardavailonline.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\standardavailonline.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+File Name: C:\Downloaded Web Sites\standardavailonline.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l521wRZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+File Name: C:\Downloaded Web Sites\standardavailonline.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+File Name: C:\Downloaded Web Sites\standardavailonline.com\s\merriweather\v30\u-4n0qyriQwlOrhSvowK_l52_wFZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://standardavailonline.com/
+File Name: C:\Downloaded Web Sites\standardavailonline.com\index.htm
+Content Type: text/html
+
+Uri: https://standardavailonline.com/about.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\about.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\animate-text.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\aos.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/css/vendor/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\css\vendor\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/bg/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\bg\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/blog/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\blog\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/css/vendor/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\css\vendor\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/bg/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\bg\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/plugins/animate-text.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\plugins\animate-text.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\plugins\animate.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/plugins/aos.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\plugins\aos.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\plugins\some-plugins.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\plugins\swiper.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\style.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\vendor\bootstrap.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\css\vendor\fontawesome-all.min.css.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\bg\about-us-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\bg\choose-us-02.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\blog\corporate-blog-01.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\blog\corporate-blog-02.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\blog\corporate-blog-03.jpg.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\check-icon-01.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\contact-world.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\corporate-feature-icon-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\service-03.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\service-05.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\images\icons\service-06.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\main.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\aos.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\countdown.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\counterup.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\images-loaded.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\isotope.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\masonry.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\some-plugins.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\swiper.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\waypoints.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\plugins\wow.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\vendor\bootstrap.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\vendor\jquery-3.3.1.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\assets\js\vendor\modernizr-2.8.3.min.js.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\images\favicon.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\logo-white.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\images\logo.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_flat_0_aaaaaa_40x100.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_flat_75_ffffff_40x100.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_flat_75_ffffff_40x100.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_glass_55_fbf9ee_1x400.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_glass_65_ffffff_1x400.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_glass_65_ffffff_1x400.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_glass_75_dadada_1x400.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_glass_75_dadada_1x400.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_glass_75_e6e6e6_1x400.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_glass_95_fef1ec_1x400.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_glass_95_fef1ec_1x400.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-bg_highlight-soft_75_cccccc_1x100.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-icons_222222_256x240.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-icons_222222_256x240.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-icons_2e83ff_256x240.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-icons_454545_256x240.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-icons_454545_256x240.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-icons_888888_256x240.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-icons_888888_256x240.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/images/ui-icons_cd0a0a_256x240.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\images\ui-icons_cd0a0a_256x240.png.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/assets/css/plugins/some-plugins.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\some-plugins.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/plugins/swiper.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\plugins\swiper.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/css/vendor/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\css\vendor\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://standardavailonline.com/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://standardavailonline.com/assets/images/bg/about-us-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\about-us-02.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/bg/call-to-action-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\call-to-action-01.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/bg/choose-us-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\choose-us-02.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/bg/creative-contact.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\creative-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/bg/creative_agency-about-us.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\creative_agency-about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/bg/dots.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\bg\dots.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/blog/corporate-blog-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\blog\corporate-blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/blog/corporate-blog-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\blog\corporate-blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/blog/corporate-blog-03.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\blog\corporate-blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/hero/home-corporate-bg-01.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\hero\home-corporate-bg-01.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/hero/home-corporate-bg-02.jpg
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\hero\home-corporate-bg-02.jpg
+Content Type: image/jpeg
+
+Uri: https://standardavailonline.com/assets/images/icons/check-icon-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\check-icon-01.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/contact-world.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\contact-world.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/corporate-feature-icon-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\corporate-feature-icon-03.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/creative_agency-counter-sercale.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\creative_agency-counter-sercale.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/selector-icon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\selector-icon.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/service-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\service-03.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/service-05.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\service-05.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/icons/service-06.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\icons\service-06.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/pricing-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\pricing-01.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/pricing-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\pricing-02.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/startup-pattens-01.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\startup-pattens-01.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/startup-pattens-02.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\startup-pattens-02.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/startup-pattens-03.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\startup-pattens-03.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/startup-project-bg.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\startup-project-bg.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/patterns/startup-project-lg-bg.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\patterns\startup-project-lg-bg.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/images/preview/landing-header-preview-bg.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\images\preview\landing-header-preview-bg.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/aos.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\aos.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/countdown.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\countdown.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/counterup.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/images-loaded.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\images-loaded.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/isotope.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/masonry.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\masonry.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/some-plugins.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\some-plugins.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/swiper.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/waypoints.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\plugins\wow.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/vendor/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\vendor\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\assets\js\vendor\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/business-banking-business-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking-business-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/business-banking-direct-lending.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking-direct-lending.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/business-banking-notice-deposit-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking-notice-deposit-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/business-banking-property-loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking-property-loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/business-banking-trade-finance.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking-trade-finance.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/business-banking.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\business-banking.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/contact.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\contact.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/images/logo-white.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\images\logo-white.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/images/logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\images\logo.png
+Content Type: image/png
+
+Uri: https://standardavailonline.com/index.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\index.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/loans-calculator.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\loans-calculator.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/loans-mortage-loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\loans-mortage-loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/loans-property-loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\loans-property-loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/open-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\open-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/personal-banking-current-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\personal-banking-current-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/personal-banking-notice-deposit-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\personal-banking-notice-deposit-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/personal-banking-property-loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\personal-banking-property-loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/personal-banking-savings-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\personal-banking-savings-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/personal-banking.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\personal-banking.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/privacy-policy.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\privacy-policy.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-credit-card-services.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-credit-card-services.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-discretionary-portfolios.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-discretionary-portfolios.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-excecution-only-portfolios.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-excecution-only-portfolios.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-investor-visa-portfolios.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-investor-visa-portfolios.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-notice-deposit-account.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-notice-deposit-account.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-portfolio-secured-lending.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-portfolio-secured-lending.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking-property-loans.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking-property-loans.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/private-banking.php
+File Name: C:\Downloaded Web Sites\standardavailonline.com\private-banking.php.html
+Content Type: text/html
+
+Uri: https://standardavailonline.com/vendors/tcal/css/tcal.min.css
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\css\tcal.min.css
+Content Type: text/css
+
+Uri: https://standardavailonline.com/vendors/tcal/images/cal.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\cal.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/images/next_mon.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\next_mon.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/images/next_year.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\next_year.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/images/no_cal.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\no_cal.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/images/prev_mon.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\prev_mon.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/images/prev_year.gif
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\images\prev_year.gif
+Content Type: image/gif
+
+Uri: https://standardavailonline.com/vendors/tcal/js/tcal.min.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\vendors\tcal\js\tcal.min.js
+Content Type: application/javascript
+
+Uri: https://standardavailonline.com/_loginonlinebankingrd.php?a=
+File Name: C:\Downloaded Web Sites\standardavailonline.com\_loginonlinebankingrd.php.html
+Content Type: text/html
+
+Uri: https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=true
+File Name: C:\Downloaded Web Sites\standardavailonline.com\website-widget\v1\widget.js
+Content Type: application/javascript
+
+Uri: https://widget-v4.tidiochat.com/1_183_0/static/js/render.520d832c6a9df7d4c5fe.js
+File Name: C:\Downloaded Web Sites\standardavailonline.com\1_183_0\static\js\render.520d832c6a9df7d4c5fe.js
+Content Type: application/javascript
+
+Uri: https://wmt-invdn-com.akamaized.net/forexpros_en_logo.png
+File Name: C:\Downloaded Web Sites\standardavailonline.com\forexpros_en_logo.png
+Content Type: image/png
+
